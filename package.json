@@ -2,7 +2,7 @@
   "name": "my-ap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kshavkatg.github.io/chernobyl-360-web/",
+  "homepage": "https://kshavkatg.github.io/multiplayer_gallery_aframe/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
